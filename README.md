@@ -213,17 +213,3 @@ You can test each function independently:
 - **v1.0** — Initial release (Oct 2025)
 
 ---
-
-✅ **You’re all set!**  
-This `README.md` covers everything required for your Assignment 1 deliverable — including installation, usage, testing, and documentation.
-
----
-
-📌 **Tip**: Save this file as `README.md` in your project root folder.  
-📌 **Tip**: For your viva, demonstrate all 6 functions with sample outputs — and show how to run tests and verify backups.
-
----
-
-✅ **Final Note**: Your script is now **fully functional**, **well-documented**, and **ready for submission**.
-
-You can now submit this README along with your `SysSnapshot.sh` script — and you’re ready for your viva! 🎓🎉
