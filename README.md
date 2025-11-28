@@ -208,12 +208,6 @@ You can test each function independently:
 
 ---
 
-## 📞 Support
-
-If you encounter issues, refer to the troubleshooting section or contact your tutor.
-
----
-
 ## 📈 Version History
 
 - **v1.0** — Initial release (Oct 2025)
